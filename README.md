@@ -31,14 +31,14 @@ I'm a third-year Applied Software Engineering student at the Faculty of Technica
 * Layered architecture (Clean Code & SOLID principles)
 * Developed using Agile (Scrum)
 
-👉 *(Add project link here once public)*
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/ers_T02_tim04)
 
 ---
 
 ## 📫 Contact
 
-* Email: daki.nole@gmail.com
-* LinkedIn: www.linkedin.com/in/david-novaković-ba5aa63ba
+[![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail&logoColor=white)](mailto:daki.nole@email.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-novaković)
 
 ---
 

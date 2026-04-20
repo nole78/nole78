@@ -51,6 +51,8 @@ Full-stack application for detecting non-technical losses (NTL), analyzing elect
 
 👉 Built during a competitive hackathon environment (team-based, time-constrained)
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/electricity-ntl-detection.git)
+
 ---
 
 ### 🍷 Winery Management System

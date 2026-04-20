@@ -25,7 +25,7 @@ HTML, CSS, JavaScript, React, TypeScript
 .NET, ASP.NET Core, Dapper, Git, GitHub, Jira
 
 **Databases:**
-SQL Server, XML (NoSQL approach)
+SQL Server
 
 ---
 

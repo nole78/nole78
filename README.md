@@ -15,17 +15,18 @@ I'm a third-year Applied Software Engineering student at the Faculty of Technica
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-C, C++, C#
+**Languages:**  
+C, C++, C#  
 
-**Web & Frontend:**
-HTML, CSS, JavaScript, React, TypeScript
+**Web & Frontend:**  
+HTML, CSS, JavaScript, TypeScript, React  
+Next.js, Vite  
 
-**Backend & Tools:**
-.NET, ASP.NET Core, Dapper, Git, GitHub, Jira
+**Backend & Tools:**  
+.NET, Git, GitHub, Jira  
 
-**Databases:**
-SQL Server
+**Databases:**  
+SQL Server  
 
 ---
 

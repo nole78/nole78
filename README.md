@@ -72,5 +72,5 @@ Team-based project built with C# and .NET.
 ## 📫 Contact
 
 * 📧 Email: [daki.nole@email.com](mailto:daki.nole@email.com)
-* 💼 LinkedIn: https://linkedin.com/in/david-novaković
+* 💼 LinkedIn: https://linkedin.com/in/novakovic-david
 * 💻 GitHub: https://github.com/nole78

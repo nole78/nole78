@@ -4,8 +4,8 @@ I'm a third-year Applied Software Engineering student at the Faculty of Technica
 
 ## 🚀 About Me
 
-* 🎓 BSc in Applied Software Engineering (GPA: 9.96/10)
-* 💻 Focused on backend and full-stack development
+* 🎓 BSc in Applied Software Engineering (GPA: 9.95/10)
+* 💻 💻 Focused on backend, full-stack systems, and game server architecture
 * ⚙️ Strong foundation in C, C++, and C#
 * 🌐 Building modern web apps with React, TypeScript, and .NET
 * 🤝 Experience working in Agile (Scrum) teams using Jira and Git
@@ -16,21 +16,52 @@ I'm a third-year Applied Software Engineering student at the Faculty of Technica
 ## 🛠️ Tech Stack
 
 **Languages:**  
-C, C++, C#  
+C, C++, C#, TypeScript, JavaScript  
 
-**Web & Frontend:**  
-HTML, CSS, JavaScript, TypeScript, React  
-Next.js, Vite  
+**Game Development:**  
+Unity (C#), ScriptableObject architecture, UI systems  
 
-**Backend & Tools:**  
-.NET, Git, GitHub, Jira  
+**Backend & Systems:**  
+ASP.NET Core (.NET 9), REST APIs, Server-authoritative architecture  
+
+**Frontend:**  
+React, Next.js, Vite, HTML, CSS  
 
 **Databases:**  
 SQL Server  
 
+**Tools & Workflow:**  
+Git, GitHub, Jira, Agile (Scrum)
+
 ---
 
 ## 📌 Featured Projects
+
+### 🎮 Turn-Based RPG — Full Stack Game (Nordeus Challenge 2026)
+
+Full-stack turn-based RPG with server-authoritative combat, event-driven battle reconciliation, and run-based progression built in Unity + ASP.NET Core.
+
+A fully playable prototype where the backend controls combat resolution and the client reconstructs battles through event replay.
+
+**Tech Stack:**
+- Unity (C#)
+- ASP.NET Core (.NET 9)
+- REST API architecture
+- ScriptableObject-based asset system
+
+**Key Features:**
+- ⚔️ Server-authoritative turn-based combat system
+- 🧠 Event-driven battle reconstruction (damage, heal, status effects)
+- 🗺️ 5-node encounter map with replayable fights
+- 🧙 Move learning + loadout management system
+- 📈 XP-based leveling system with stat scaling
+- 💾 Save & load system (single-slot persistence)
+- 🧩 Modular architecture (GameManager, BattleManager, ApiClient)
+
+🎥 Full Gameplay Demo:  
+https://youtu.be/XRCgYCd0nDU
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/nordeus-rpg)
 
 ### ⚡ Hack2On – Electricity Analytics Platform (Hackathon Project)
 
@@ -66,6 +97,16 @@ Team-based project built with C# and .NET.
 * Developed using Agile (Scrum)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/ers_T02_tim04)
+
+---
+
+## 🧠 Currently Working On
+
+🎮 Expanding my Turn-Based RPG with:
+- Procedural map generation
+- Smarter AI decision system
+- Status effects (poison, bleed, buffs/debuffs)
+- Resource system (mana/energy)
 
 ---
 

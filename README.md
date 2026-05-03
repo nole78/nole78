@@ -63,6 +63,8 @@ https://youtu.be/XRCgYCd0nDU
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/nordeus-rpg)
 
+---
+
 ### ⚡ Hack2On – Electricity Analytics Platform (Hackathon Project)
 
 Full-stack application for detecting non-technical losses (NTL), analyzing electricity consumption, and monitoring grid outages.

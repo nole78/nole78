@@ -5,7 +5,7 @@ I'm a third-year Applied Software Engineering student at the Faculty of Technica
 ## 🚀 About Me
 
 * 🎓 BSc in Applied Software Engineering (GPA: 9.95/10)
-* 💻 💻 Focused on backend, full-stack systems, and game server architecture
+* 💻 Focused on backend, full-stack systems, and game server architecture
 * ⚙️ Strong foundation in C, C++, and C#
 * 🌐 Building modern web apps with React, TypeScript, and .NET
 * 🤝 Experience working in Agile (Scrum) teams using Jira and Git

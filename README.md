@@ -45,7 +45,7 @@ A fully playable prototype where the backend controls combat resolution and the 
 
 **Tech Stack:**
 - Unity (C#)
-- ASP.NET Core (.NET 9)
+- ASP.NET Core (.NET 8)
 - REST API architecture
 - ScriptableObject-based asset system
 

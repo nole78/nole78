@@ -22,7 +22,7 @@ C, C++, C#, TypeScript, JavaScript
 Unity (C#), ScriptableObject architecture, UI systems  
 
 **Backend & Systems:**  
-ASP.NET Core (.NET 9), REST APIs, Server-authoritative architecture  
+ASP.NET Core (.NET 8), REST APIs, Server-authoritative architecture  
 
 **Frontend:**  
 React, Next.js, Vite, HTML, CSS  

@@ -1,15 +1,13 @@
 # Hi there 👋
 
-I'm a third-year Applied Software Engineering student at the Faculty of Technical Sciences, University of Novi Sad.
-
 ## 🚀 About Me
 
-* 🎓 BSc in Applied Software Engineering (GPA: 9.95/10)
-* 💻 Focused on backend, full-stack systems, and game server architecture
-* ⚙️ Strong foundation in C, C++, and C#
-* 🌐 Building modern web apps with React, TypeScript, and .NET
-* 🤝 Experience working in Agile (Scrum) teams using Jira and Git
-* 🧠 Interested in data-driven systems and scalable architectures
+* 🎓 Third-year Applied Software Engineering student at the Faculty of Technical Sciences, University of Novi Sad (GPA: 9.95/10)
+* 💻 Focused on backend engineering, distributed systems, and full-stack web applications
+* ⚙️ Strong foundation in C, C++, C#, TypeScript, and software architecture principles
+* 🌐 Building modern applications with React, TypeScript, Node.js, and ASP.NET Core
+* 🏗️ Interested in scalable systems, game backend architecture, and system design
+* 🤝 Experience working in Agile (Scrum) teams using Git, GitHub, and Jira
 
 ---
 
@@ -21,14 +19,15 @@ C, C++, C#, TypeScript, JavaScript
 **Game Development:**  
 Unity (C#), ScriptableObject architecture, UI systems  
 
-**Backend & Systems:**  
-ASP.NET Core (.NET 8), REST APIs, Server-authoritative architecture  
+Backend & Systems:
+ASP.NET Core (.NET 8), Node.js, Express, REST APIs, Authentication & Authorization, Distributed Systems
 
 **Frontend:**  
 React, Next.js, Vite, HTML, CSS  
 
 **Databases:**  
 SQL Server  
+MySQL
 
 **Tools & Workflow:**  
 Git, GitHub, Jira, Agile (Scrum)
@@ -62,6 +61,43 @@ A fully playable prototype where the backend controls combat resolution and the 
 https://youtu.be/XRCgYCd0nDU
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/nordeus-rpg)
+
+---
+
+### 🏆 Esports Tournament Platform
+
+Full-stack esports management platform built by a team of four students. Supports tournament organization, team management, automated bracket generation, match lifecycle management, role-based administration, and distributed deployment.
+
+**Tech Stack:**
+
+* React
+* TypeScript
+* Node.js
+* Express
+* MySQL
+* Docker
+
+**Key Features:**
+
+* 🎮 Team and tournament management
+* 🏁 Automated bracket generation engine
+* ⚔️ Match scheduling and progression tracking
+* 👥 Lineup and player performance management
+* 🔐 JWT authentication & role-based authorization
+* 📋 Audit logging and admin dashboard
+* ⚖️ Custom load balancer with health monitoring
+* ☁️ Distributed deployment across Render and Railway
+
+**Engineering Highlights:**
+
+* Dependency Injection
+* Repository Pattern
+* Result Pattern
+* SOLID principles
+* N+1 query optimization
+* Weighted Round Robin load balancing
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/esports-tournament-platform)
 
 ---
 
@@ -104,11 +140,10 @@ Team-based project built with C# and .NET.
 
 ## 🧠 Currently Working On
 
-🎮 Expanding my Turn-Based RPG with:
-- Procedural map generation
-- Smarter AI decision system
-- Status effects (poison, bleed, buffs/debuffs)
-- Resource system (mana/energy)
+- Improving my Turn-Based RPG project
+- Learning distributed system design patterns
+- Exploring scalable backend architectures
+- Preparing for software engineering internships
 
 ---
 

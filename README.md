@@ -99,6 +99,7 @@ Full-stack esports management platform built by a team of four students. Support
 
 🎥 Live Demo:  
 https://odp-c2-s-tim-01.vercel.app
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/esports-tournament-platform)
 
 ---
@@ -125,6 +126,7 @@ Full-stack application for detecting non-technical losses (NTL), analyzing elect
 
 🎥 Live Demo:  
 https://ntl-detection-system-iota.vercel.app
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/electricity-ntl-detection.git)
 
 ---

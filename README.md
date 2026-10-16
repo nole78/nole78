@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-* 🎓 Third-year Applied Software Engineering student at the Faculty of Technical Sciences, University of Novi Sad (GPA: 9.95/10)
+* 🎓 Fourth-year Applied Software Engineering student at the Faculty of Technical Sciences, University of Novi Sad (GPA: 9.90/10)
 * 💻 Focused on backend engineering, distributed systems, and full-stack web applications
 * ⚙️ Strong foundation in C, C++, C#, TypeScript, and software architecture principles
 * 🌐 Building modern applications with React, TypeScript, Node.js, and ASP.NET Core

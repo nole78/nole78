@@ -1,160 +1,141 @@
-# Hi there 👋
+<div align="center">
 
-## 🚀 About Me
+# David Novakovic
 
-* 🎓 Fourth-year Applied Software Engineering student at the Faculty of Technical Sciences, University of Novi Sad (GPA: 9.90/10)
-* 💻 Focused on backend engineering, distributed systems, and full-stack web applications
-* ⚙️ Strong foundation in C, C++, C#, TypeScript, and software architecture principles
-* 🌐 Building modern applications with React, TypeScript, Node.js, and ASP.NET Core
-* 🏗️ Interested in scalable systems, game backend architecture, and system design
-* 🤝 Experience working in Agile (Scrum) teams using Git, GitHub, and Jira
+**Backend Engineer · Full-Stack Developer · Software Engineering Student**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-nole78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nole78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Novakovic%20David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/novakovic-david)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daki.nole@email.com)
 
-## 🛠️ Tech Stack
+</div>
 
-**Languages:**  
-C, C++, C#, TypeScript, JavaScript  
+## Profile
 
-**Game Development:**  
-Unity (C#), ScriptableObject architecture, UI systems  
+Fourth-year Applied Software Engineering student at the Faculty of Technical Sciences, University of Novi Sad, with a GPA of **9.90/10**. I focus on backend engineering, distributed systems, full-stack web applications, and game backend architecture.
 
-Backend & Systems:
-ASP.NET Core (.NET 8), Node.js, Express, REST APIs, Authentication & Authorization, Distributed Systems
+I enjoy designing maintainable systems, working with layered and clean architecture, and turning complex domain requirements into reliable software. I have experience collaborating in Agile/Scrum teams using GitHub and Jira.
 
-**Frontend:**  
-React, Next.js, Vite, HTML, CSS  
+## Technical Skills
 
-**Databases:**  
-SQL Server  
-MySQL
+### Languages
 
-**Tools & Workflow:**  
-Git, GitHub, Jira, Agile (Scrum)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+### Backend and Systems
 
-## 📌 Featured Projects
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white)
 
-### 🎮 Turn-Based RPG — Full Stack Game (Nordeus Challenge 2026)
+### Frontend and Game Development
 
-Full-stack turn-based RPG with server-authoritative combat, event-driven battle reconciliation, and run-based progression built in Unity + ASP.NET Core.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-A fully playable prototype where the backend controls combat resolution and the client reconstructs battles through event replay.
+### Data, Infrastructure, and Workflow
 
-**Tech Stack:**
-- Unity (C#)
-- ASP.NET Core (.NET 8)
-- REST API architecture
-- ScriptableObject-based asset system
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**Key Features:**
-- ⚔️ Server-authoritative turn-based combat system
-- 🧠 Event-driven battle reconstruction (damage, heal, status effects)
-- 🗺️ 5-node encounter map with replayable fights
-- 🧙 Move learning + loadout management system
-- 📈 XP-based leveling system with stat scaling
-- 💾 Save & load system (single-slot persistence)
-- 🧩 Modular architecture (GameManager, BattleManager, ApiClient)
+## Featured Projects
 
-🎥 Full Gameplay Demo:  
-https://youtu.be/XRCgYCd0nDU
+### Turn-Based RPG — Full-Stack Game
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/nordeus-rpg)
+A playable turn-based RPG prototype developed for the **Nordeus Challenge 2026**, built with Unity and ASP.NET Core. The backend is authoritative for combat resolution, while the client reconstructs battles from domain events.
 
----
+**Highlights**
 
-### 🏆 Esports Tournament Platform
+- Server-authoritative turn-based combat
+- Event-driven battle reconstruction for damage, healing, and status effects
+- Five-node encounter map with replayable fights
+- Move learning and loadout management
+- XP-based progression and stat scaling
+- Single-slot save and load system
+- Modular client architecture built around `GameManager`, `BattleManager`, and `ApiClient`
 
-Full-stack esports management platform built by a team of four students. Supports tournament organization, team management, automated bracket generation, match lifecycle management, role-based administration, and distributed deployment.
+**Stack:** Unity, C#, ASP.NET Core, .NET 8, REST APIs, ScriptableObject architecture
 
-**Tech Stack:**
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nole78/nordeus-rpg)
+[![Gameplay Demo](https://img.shields.io/badge/Gameplay%20Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/XRCgYCd0nDU)
 
-* React
-* TypeScript
-* Node.js
-* Express
-* MySQL
-* Docker
+### Esports Tournament Platform
 
-**Key Features:**
+A distributed full-stack platform developed by a team of four students for managing esports teams, tournaments, matches, and player participation.
 
-* 🎮 Team and tournament management
-* 🏁 Automated bracket generation engine
-* ⚔️ Match scheduling and progression tracking
-* 👥 Lineup and player performance management
-* 🔐 JWT authentication & role-based authorization
-* 📋 Audit logging and admin dashboard
-* ⚖️ Custom load balancer with health monitoring
-* ☁️ Distributed deployment across Render and Railway
+The system includes a React client, a layered Express API, a MySQL data layer, and a custom Node.js load balancer. Production traffic is routed through the load balancer to multiple backend instances deployed across Render and Railway.
 
-**Engineering Highlights:**
+**Highlights**
 
-* Dependency Injection
-* Repository Pattern
-* Result Pattern
-* SOLID principles
-* N+1 query optimization
-* Weighted Round Robin load balancing
+- Tournament, team, lineup, and player management
+- Automated bracket generation and match progression
+- JWT authentication and role-based authorization
+- Audit logging and administrative dashboards
+- Custom load balancer with health monitoring
+- Weighted Round Robin, Round Robin, Least Connections, and IP Hash strategies
+- Layered architecture, Dependency Injection, Repository Pattern, Result Pattern, and SOLID principles
+- N+1 query reduction through bulk retrieval operations
 
-🎥 Live Demo:  
-https://odp-c2-s-tim-01.vercel.app
+**Stack:** React, TypeScript, Vite, Node.js, Express, MySQL, Docker, Render, Railway, Vercel
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/esports-tournament-platform)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nole78/esports-tournament-platform)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://odp-c2-s-tim-01.vercel.app)
 
----
+### Hack2On — Electricity Analytics Platform
 
-### ⚡ Hack2On – Electricity Analytics Platform (Hackathon Project)
+A hackathon project for detecting non-technical losses, analyzing electricity consumption, and monitoring grid outages over a large-scale dataset.
 
-Full-stack application for detecting non-technical losses (NTL), analyzing electricity consumption, and monitoring grid outages.
+**Highlights**
 
-**Tech Stack:**
+- Non-technical loss analytics and top-offender detection
+- Feeder anomaly scoring and classification
+- Interactive power-grid visualization
+- Real-time and historical outage tracking
+- Data-driven dashboards backed by optimized queries
 
-* Frontend: Next.js, React, TypeScript, Tailwind, Leaflet
-* Backend: ASP.NET Core Web API, Dapper
-* Database: SQL Server (large-scale dataset)
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Leaflet, ASP.NET Core Web API, Dapper, SQL Server
 
-**Key Features:**
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nole78/electricity-ntl-detection)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ntl-detection-system-iota.vercel.app)
 
-* 📊 NTL analytics dashboard with top offender detection
-* ⚡ Feeder anomaly scoring and classification
-* 🗺️ Interactive power grid visualization (map-based)
-* 🚨 Real-time & historical outage tracking
-* 🔎 Data-driven insights over large datasets
+### Winery Management System
 
-👉 Built during a competitive hackathon environment (team-based, time-constrained)
+A team-based .NET application featuring role-based authentication, XML-based persistence, layered architecture, and SOLID-oriented development practices.
 
-🎥 Live Demo:  
-https://ntl-detection-system-iota.vercel.app
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nole78/ers_T02_tim04)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/electricity-ntl-detection.git)
+## Engineering Interests
 
----
+- Distributed systems and service reliability
+- Backend and game server architecture
+- Scalable API design
+- Clean and layered architecture
+- Event-driven systems
+- Performance optimization and database design
+- System design and cloud deployment
 
-### 🍷 Winery Management System
+## Current Focus
 
-Team-based project built with C# and .NET.
-
-* Role-based authentication system
-* XML-based data storage (NoSQL)
-* Layered architecture (Clean Code & SOLID)
-* Developed using Agile (Scrum)
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/nole78/ers_T02_tim04)
-
----
-
-## 🧠 Currently Working On
-
-- Improving my Turn-Based RPG project
-- Learning distributed system design patterns
-- Exploring scalable backend architectures
+- Expanding the turn-based RPG project
+- Deepening knowledge of distributed-system design patterns
+- Building scalable backend architectures
 - Preparing for software engineering internships
 
----
+## Contact
 
-## 📫 Contact
-
-* 📧 Email: [daki.nole@email.com](mailto:daki.nole@email.com)
-* 💼 LinkedIn: https://linkedin.com/in/novakovic-david
-* 💻 GitHub: https://github.com/nole78
+- **Email:** [daki.nole@email.com](mailto:daki.nole@email.com)
+- **LinkedIn:** [linkedin.com/in/novakovic-david](https://linkedin.com/in/novakovic-david)
+- **GitHub:** [github.com/nole78](https://github.com/nole78)

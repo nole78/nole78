@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-nole78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nole78)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Novakovic%20David-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/novakovic-david)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daki.nole@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daki.nole@gmail.com)
 
 </div>
 
